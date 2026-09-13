@@ -4,9 +4,9 @@
 
 ## 宠物一览
 
-| 洄 · Hui | 宫森葵·喵森 | 奔跑吧·喵森 |
+| 洄 · Hui | 上班中·喵森 | 奔跑吧·喵森 |
 | :---: | :---: | :---: |
-| <img src="pets/hui-line-fish/preview.png" alt="洄：白色线条游鱼" width="192"> | <img src="pets/miyamori-aoi/preview.gif" alt="宫森葵·喵森待机动画" width="192"> | <img src="pets/run-myaamori/preview.gif" alt="奔跑吧·喵森奔跑动画" width="192"> |
+| <img src="pets/hui-line-fish/preview.png" alt="洄：白色线条游鱼" width="192"> | <img src="pets/miyamori-aoi/preview.gif" alt="上班中·喵森待机动画" width="192"> | <img src="pets/run-myaamori/preview.gif" alt="奔跑吧·喵森奔跑动画" width="192"> |
 | 白色线条与透明留白构成的安静游鱼 | 蓝色外套、甜甜圈与认真元气的神情 | 珊瑚橘外套、怀抱原画信封的小跑 |
 | [查看详情](pets/hui-line-fish/) · [下载 ZIP](downloads/hui-line-fish.zip) | [查看详情](pets/miyamori-aoi/) · [下载 ZIP](downloads/miyamori-aoi.zip) | [查看详情](pets/run-myaamori/) · [下载 ZIP](downloads/run-myaamori.zip) |
 
@@ -38,7 +38,7 @@
 ```text
 pets/
 ├── hui-line-fish/       # 洄
-├── miyamori-aoi/        # 宫森葵·喵森
+├── miyamori-aoi/        # 上班中·喵森
 └── run-myaamori/        # 奔跑吧·喵森
 downloads/              # 每只宠物的安装包
 catalog.json            # 宠物目录、预览、下载位置与图集校验值
@@ -46,7 +46,7 @@ catalog.json            # 宠物目录、预览、下载位置与图集校验值
 
 每只宠物采用 Codex v2 格式：透明 WebP 图集 1536 × 2288 像素，8 列 × 11 行，单帧 192 × 208 像素；包含 9 组标准状态动作与 16 个视线方向。
 
-「宫森葵·喵森」与「奔跑吧·喵森」以动漫《白箱》的宫森葵为角色参考，采用 AI 辅助绘制，动作经过独立视觉验收。各宠物的具体设定见对应目录的说明。
+「上班中·喵森」与「奔跑吧·喵森」以动漫《白箱》的宫森葵为角色参考，采用 AI 辅助绘制，动作经过独立视觉验收。各宠物的具体设定见对应目录的说明。
 
 ## 添加新宠物
 
