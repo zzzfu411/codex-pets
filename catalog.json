@@ -1,0 +1,41 @@
+{
+  "name": "codex-pets",
+  "pets": [
+    {
+      "id": "hui-line-fish",
+      "displayName": "洄",
+      "description": "一条由克制白色线条与留白构成的冷峻游鱼，安静、敏锐，像在纸面上思考。",
+      "path": "pets/hui-line-fish",
+      "preview": "pets/hui-line-fish/preview.png",
+      "download": "downloads/hui-line-fish.zip",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "cf30dc3398da5289db17a6025d61f75b3e1cfb3b05dcf46b4a100ec2af4ada3a"
+    },
+    {
+      "id": "miyamori-aoi",
+      "displayName": "宫森葵·喵森",
+      "description": "《白箱》宫森葵的Q版动画伙伴，穿蓝色工作外套，带着甜甜圈和认真又元气的表情。",
+      "path": "pets/miyamori-aoi",
+      "preview": "pets/miyamori-aoi/preview.gif",
+      "download": "downloads/miyamori-aoi.zip",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "63e4ec86ac2bbb2057756e94c3b29167277f2b824f3048077f699a65c4a44041"
+    },
+    {
+      "id": "run-myaamori",
+      "displayName": "奔跑吧·喵森",
+      "description": "抱紧原画信封、向着截稿日奔跑的Q版宫森葵。",
+      "path": "pets/run-myaamori",
+      "preview": "pets/run-myaamori/preview.gif",
+      "download": "downloads/run-myaamori.zip",
+      "spriteVersionNumber": 2,
+      "width": 1536,
+      "height": 2288,
+      "spritesheetSha256": "66ed10676cd68c05d7b44aaa1028b5317ba58d64fd04419bd9a8eb35d3513f2c"
+    }
+  ]
+}
